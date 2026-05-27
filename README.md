@@ -3,6 +3,7 @@
 基于 LangGraph 的多智能体协作系统，实现电商商品图像的智能理解、创意文案生成与内容质量校验。
 
 ## 架构总览
+<img width="1334" height="938" alt="微信图片_20260528004437_65_360" src="https://github.com/user-attachments/assets/e58ae0d2-6c4b-4730-8f1e-c3e147b08d43" />
 
 ```
 用户输入（图像 + 文本）
