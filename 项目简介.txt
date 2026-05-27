@@ -1,0 +1,7 @@
+现在我要通过LangGraph进行多agent协作，构建“多智能体生态”达成复杂场景下的视觉问答与描述生成 
+1deepseek v4pro作为主agent负责任务分发 
+2视觉理解agent用qwen3-vl-plus
+3文案生成agent用qwen3.6-plus
+4内容校验agent用：MiMo-V2.5-Pro
+234agent都有主agent单独调用，234agent之间不能互相交互
+给出详细的操作步骤详情，并且要确保后续能够进行实验 消融 调整置信度等等问题 以便于撰写论文你先生成一版，然后我看问题再改正，你生成的文本我要喂给Claudecode直接生成这些代码操作
